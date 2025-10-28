@@ -15,10 +15,10 @@ Each query demonstrates essential SQL data-analysis techniques — including fil
 ---
 
 ## Insights
-- Identified **top-performing states** and **popular product sizes**  
-- Found **product combinations** frequently bought together — useful for cross-selling  
-- Calculated the **repeat customer rate** to measure loyalty  
-- Highlighted **inactive customers** for re-engagement campaigns  
+- Identified top-performing states and popular product sizes
+- Found product combinations frequently bought together — useful for cross-selling  
+- Calculated the repeat customer rate to measure loyalty  
+- Highlighted inactive customers for re-engagement campaigns  
 
 ---
 
