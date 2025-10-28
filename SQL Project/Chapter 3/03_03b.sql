@@ -1,1 +1,0 @@
--- Determine top customer state

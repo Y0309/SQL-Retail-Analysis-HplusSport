@@ -1,1 +1,0 @@
--- Insert new customer into Customer table

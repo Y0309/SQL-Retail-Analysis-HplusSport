@@ -1,1 +1,0 @@
--- Find sales by month and year
