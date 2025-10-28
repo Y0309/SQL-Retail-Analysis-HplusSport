@@ -2,7 +2,7 @@
 ---
 
 ## Project Overview
-This project uses SQL to analyze retail sales, customer behaviour, and product performance within an e-commerce database.  
+Using SQL to analyze retail sales, customer behaviour, and product performance within an e-commerce database.  
 
 The dataset includes four main tables:
 - **Customer** – customer demographic and contact information  
