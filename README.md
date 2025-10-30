@@ -19,7 +19,7 @@ The dataset includes four main tables:
 - Practice using SQL for real business questions and retail data problems  
 ---
 
-## Pain Points & How I Solved Them
+## Challenges & How I Solved Them
 | Challenge | How It Was Solved |
 |------------|------------------|
 | The dataset has NULL values in customer information. | Used `Where Email Is Not Null And Phone Is Not Null` to clean the dataset. |
